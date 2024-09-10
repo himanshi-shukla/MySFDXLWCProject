@@ -1,0 +1,2 @@
+# MySFDXLWCProject
+LWC applications
